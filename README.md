@@ -18,5 +18,3 @@ Task 7: Draw Shapes on an Image (Part 2)
 Task 8: Draw with the Mouse
 
 Task 9: Event Choices for the Mouse
-
-Task 10: Mouse Functionality
